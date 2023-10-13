@@ -1,7 +1,7 @@
 {
-  "name": "dictionaires_pandas",
+  "name": "dictionaries_pandas",
   "src": [
-    "dictionaires_pandas.ipynb"
+    "dictionaries_pandas.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
