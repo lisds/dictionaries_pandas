@@ -1,0 +1,14 @@
+{
+  "name": "dictionaires_pandas",
+  "src": [
+    "dictionaires_pandas.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
